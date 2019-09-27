@@ -25,7 +25,7 @@ Telegram 群组链接为 [@OIwiki](https://t.me/OIwiki) ，QQ 群号码为 [ `58
 > 默认为 `white` 
 
 点击色块可更换主题的主色
-
+x
 <div id="color-button">
 <button data-md-color-primary="red">Red</button>
 <button data-md-color-primary="pink">Pink</button>
